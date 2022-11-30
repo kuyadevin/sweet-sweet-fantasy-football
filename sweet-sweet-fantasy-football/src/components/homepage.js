@@ -1,3 +1,4 @@
+import './style.css'
 function Homepage() {
   return (
     <div>
@@ -5,3 +6,5 @@ function Homepage() {
     </div>
   )
 }
+
+export default Homepage
